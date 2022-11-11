@@ -3,20 +3,16 @@
 
 O NLW é um evento online e gratuito que apresenta conhecimentos em várias áreas da tecnologia. No NLW Copa 2022, foi construída uma aplicação de bolão para copa, usando diversas tecnologias como ReactJS, React Native, Expo e NodeJS.
 
-Esse repositório contém o ambiente web da aplicação
+Esse repositório contém o ambiente web da aplicação.
 
-## Figma do projeto
+
+## Project screens
 [NLW - Bolão da Copa](https://www.figma.com/file/2aN7WUPZXI8ohig77itnzx/Bol%C3%A3o-da-Copa-(Community)?node-id=1%3A2)
 
 
 ## Tools
-[![Tools](https://skills.thijs.gg/icons?i=react,ts,figma&theme=light)](https://skills.thijs.gg)
+[![Tools](https://skills.thijs.gg/icons?i=react,ts,figma,nextjs&theme=light)](https://skills.thijs.gg)
 
-## How to run the aplication
-`npm run dev`
-
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
